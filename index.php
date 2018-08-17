@@ -15,7 +15,7 @@
 <body>
     <header>
      <div class="">
-        <h1 class="text-center">CRUD DE PRACTICA</h1>
+        <h1 class="text-center">CRUD DE PRACTICA con datatables</h1>
      </div>
     </header>
     <div class="container">
